@@ -26,7 +26,7 @@ The solution is delivered as a Power BI report (interactive dashboard + measures
 - **Key fields used:** EmployeeID, Gender, Region, Department, Salary, Rating (performance), and bonus-rule fields (rating -> bonus rule)  
 - **Tools:** Power BI (Power Query + DAX), Excel (for quick checks/sample extracts)  
 
-**View the interactive report here:** ________________________________________
+## 🌐 [🔗 View the interactive report here](https://app.powerbi.com/view?https://app.powerbi.com/view?r=eyJrIjoiZGFiMWQ2OWEtMzVlMi00MGFmLTg2ODYtZWE4MzBlZDMyMDJmIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=c5047c018ff3fcdd42eb
 
 ---
 
