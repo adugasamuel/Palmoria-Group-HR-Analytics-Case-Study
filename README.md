@@ -94,8 +94,8 @@ Palmoria faces reputational and regulatory risk due to potential gender inequali
 - **Created DAX measures for:**  
   - `TotalSalary = SUM(Employee[Salary])`  
   - `AvgFemaleSalary = CALCULATE(AVERAGE(Employee[Salary]), Employee[Gender] = "Female")`  
-  - `Salary<90K = CALCULATE(COUNT('Palmoria Group emp-data'[Gender]), 'Palmoria Group emp-data'[Salary]>90000)/946`  
-  - `TotalBonus = IF('Palmoria Group emp-data'[Bonus]=BLANK(),0,'Palmoria Group emp-data'[Bonus])` *(Aggregation 'sum')*  
+  - `Salary<90K = CALCULATE(COUNT('Employee data'[Gender]), 'Employee data'[Salary]>90000)/946`  
+  - `TotalBonus = IF('Employee data'[Bonus]=BLANK(),0,'Employee data'[Bonus])` *(Aggregation 'sum')*  
   - `TotalPay = [Salary] + [Bonus]`  
 
 - Built salary bands (10k intervals) in Power Query to enable the *Employee grouped by band (10k)* visual.  
