@@ -107,10 +107,8 @@ Palmoria faces reputational and regulatory risk due to potential gender inequali
 
 ---
 Dax for Salary>90K
-```
-Salary>90K = CALCULATE(COUNT('Employee'[Gender]),'Palmoria Group emp-data'[Salary]>90000)/946
-TotalPay = [TotalSalary] + [TotalBonus]
-```
+`Salary>90K = CALCULATE(COUNT('Employee'[Gender]),'Palmoria Group emp-data'[Salary]>90000)/946`
+
 ---
 ## Key findings & insights
 - **Workforce size:** 946 active employees (after removing inactive / salary = 0 records).  
