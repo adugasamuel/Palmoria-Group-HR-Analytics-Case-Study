@@ -188,9 +188,8 @@ This readme and the public dashboard use anonymized/case-study data. For product
 If you’d like to discuss this analysis, see the interactive report, or request an expanded study, contact:  
 
 **Aduga Emmanuel**  
-📧 Email: [adugasamuel@gmail.com](mailto:adugasamuel@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/aduga-emmanuel-170396132](https://linkedin.com/in/aduga-emmanuel-170396132)  
-
+📧 Email: [adugasamuel@gmail.com](adugasamuel@gmail.com)  
+🔗 [LinkedIn]([linkedin.com/in/aduga-emmanuel-170396132])
 ---
 
 ## Final note
