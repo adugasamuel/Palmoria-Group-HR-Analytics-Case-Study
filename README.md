@@ -105,7 +105,19 @@ Palmoria faces reputational and regulatory risk due to potential gender inequali
 - Visualized regional totals for total pay (salary + bonus) to identify financial exposure by region.  
 
 ---
+Dax for Salary>90K
+```AvgFemaleSalary = CALCULATE(AVERAGE(Employee[Salary]), Employee[Gender] = "Female")
 
+Salary>90k = 
+DIVIDE(
+  CALCULATE(COUNTROWS(Employee), Employee[Salary] > 90000),
+  COUNTROWS(Employee),
+  0
+)
+
+TotalPay = [TotalSalary] + [TotalBonus]
+```
+---
 ## Key findings & insights
 - **Workforce size:** 946 active employees (after removing inactive / salary = 0 records).  
 - **Gender distribution:**  
