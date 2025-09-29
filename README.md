@@ -94,7 +94,8 @@ Palmoria faces reputational and regulatory risk due to potential gender inequali
 ## Analysis processes (summary of work done)
 - **Created DAX measures for:**  
   - `TotalSalary = SUM(Employee[Salary])`  
-  - `AvgFemaleSalary = CALCULATE(AVERAGE(Employee[Salary]), Employee[Gender] = "Female")`  
+  - `AvgFemaleSalary = CALCULATE(AVERAGE(Employee[Salary]), Employee[Gender] = "Female")`
+  - `AvgFemaleSalary = CALCULATE(AVERAGE(Employee[Salary]), Employee[Gender] = "Male")` 
   - `Salary<90K = CALCULATE(COUNT('Employee data'[Gender]), 'Employee data'[Salary]>90000)/946`  
   - `TotalBonus = IF('Employee data'[Bonus]=BLANK(),0,'Employee data'[Bonus])` *(Aggregation 'sum')*  
   - `TotalPay = [Salary] + [Bonus]`  
@@ -106,15 +107,8 @@ Palmoria faces reputational and regulatory risk due to potential gender inequali
 
 ---
 Dax for Salary>90K
-```AvgFemaleSalary = CALCULATE(AVERAGE(Employee[Salary]), Employee[Gender] = "Female")
-
-Salary>90k = 
-DIVIDE(
-  CALCULATE(COUNTROWS(Employee), Employee[Salary] > 90000),
-  COUNTROWS(Employee),
-  0
-)
-
+```
+Salary>90K = CALCULATE(COUNT('Palmoria Group emp-data'[Gender]),'Palmoria Group emp-data'[Salary]>90000)/946
 TotalPay = [TotalSalary] + [TotalBonus]
 ```
 ---
