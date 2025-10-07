@@ -76,13 +76,13 @@ Palmoria faces reputational and regulatory risk due to potential gender inequali
 
 ## Data cleaning checklist
 - **Undisclosed Gender**  
-  Assigned a neutral placeholder value: *"Unidentified"* for employees who did not disclose gender. This preserves count integrity while making gender-based aggregations explicit.  
+  I assigned a neutral placeholder value: *"Unidentified"* for employees who did not disclose gender. This preserves count integrity while making gender-based aggregations explicit.  
 
 - **Employees without salary (no longer with the company)**  
-  Filtered out records where Salary = 0, NULL, or missing. Marked as inactive and removed from active workforce and pay analyses.  
+  I filtered out records where Salary = 0, NULL, or missing. Marked as inactive and removed from active workforce and pay analyses.  
 
 - **Departments labelled NULL**  
-  Removed or excluded records where the Department is missing/NULL for department-based analysis (to prevent noisy group comparisons).  
+  I removed or excluded records where the Department is missing/NULL for department-based analysis (to prevent noisy group comparisons).  
 
 - **Basic checks**  
   - Removed duplicates on EmployeeID.  
