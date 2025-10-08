@@ -5,7 +5,7 @@
 ## Introduction
 This project uses HR data from Palmoria Group, a manufacturing company, to diagnose gender-related risks (representation, pay equity, performance distribution) and to model annual bonus payouts. The analysis is implemented as a production-style Power BI dashboard that supports filter-driven exploration by Region and Department, and provides actionable recommendations to HR and leadership.  
 
-**Note:** The dataset used in this public portfolio is a case study dataset created for the capstone exercise and has been handled with appropriate anonymization. The analysis and dashboard replicate a real-world HR analytics engagement.  
+⚠️**Note:** The dataset used in this public portfolio is a case study dataset created for the capstone exercise and has been handled with appropriate anonymization. The analysis and dashboard replicate a real-world HR analytics engagement.  
 
 ---
 
