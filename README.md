@@ -192,3 +192,4 @@ If you’d like to discuss this analysis, see the interactive report, or request
 
 ## Final note
 This capstone was executed as a practical HR analytics engagement and structured to mirror how an HR analytics team would diagnose representation, pay equity, and regulatory exposure. The dashboard is designed to be both an investigative tool and an executive communication artifact — it surfaces the issues, quantifies financial exposure, and points leadership to the most urgent remediation areas.  
+## Thank You
