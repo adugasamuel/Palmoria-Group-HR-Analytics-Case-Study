@@ -182,14 +182,14 @@ This readme and the public dashboard use anonymized/case-study data. For product
 
 ---
 
-## Contact
-If you’d like to discuss this analysis, see the interactive report, or request an expanded study, contact:  
-
 **Aduga Emmanuel**  
-📧 Email: [adugasamuel@gmail.com](adugasamuel@gmail.com)  
-🔗 [LinkedIn]([linkedin.com/in/aduga-emmanuel-170396132])
+
+📧 [Email](adugasamuel@gmail.com)
+
+🔗[LinkedIn](linkedin.com/in/aduga-emmanuel-170396132])
 ---
 
 ## Final note
-This capstone was executed as a practical HR analytics engagement and structured to mirror how an HR analytics team would diagnose representation, pay equity, and regulatory exposure. The dashboard is designed to be both an investigative tool and an executive communication artifact — it surfaces the issues, quantifies financial exposure, and points leadership to the most urgent remediation areas.  
+This capstone was executed as a practical HR analytics engagement and structured to mirror how an HR analytics team would diagnose representation, pay equity, and regulatory exposure.
+The dashboard is designed to be both an investigative tool and an executive communication artifact — it surfaces the issues, quantifies financial exposure, and points leadership to the most urgent remediation areas.  
 ## Thank You
