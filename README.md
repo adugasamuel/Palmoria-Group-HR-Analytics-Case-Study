@@ -181,12 +181,14 @@ Dax for Salary>90K
 This readme and the public dashboard use anonymized/case-study data. For production deployments with real employee data, ensure you follow applicable data privacy regulations (e.g., local labor laws, GDPR where applicable), secure dashboards with row-level security, and obtain appropriate approvals before any public release.  
 
 ---
+## Contact
 
 **Aduga Emmanuel**  
 
-📧 [Email](adugasamuel@gmail.com)
+📧[Email](adugasamuel@gmail.com)
 
 🔗[LinkedIn](linkedin.com/in/aduga-emmanuel-170396132])
+
 ---
 
 ## Final note
