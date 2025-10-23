@@ -191,7 +191,18 @@ This readme and the public dashboard use anonymized/case-study data. For product
 
 ---
 
+## The repository
+
+Bike buyer xlsx file .
+PowerPoint summary deck created for executive review.
+Dashboard screenshots
+These analytic processes demonstrate both technical skills (data cleaning, DAX, visualization) and business acumen (recommendations, strategy alignment).
+
+---
+
 ## Final note
 This capstone was executed as a practical HR analytics engagement and structured to mirror how an HR analytics team would diagnose representation, pay equity, and regulatory exposure.
 The dashboard is designed to be both an investigative tool and an executive communication artifact — it surfaces the issues, quantifies financial exposure, and points leadership to the most urgent remediation areas.  
+
+---
 ## Thank You
