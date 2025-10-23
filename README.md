@@ -193,9 +193,10 @@ This readme and the public dashboard use anonymized/case-study data. For product
 
 ## The repository
 
-Bike buyer xlsx file .
-PowerPoint summary deck created for executive review.
-Dashboard screenshots
+- Polmoria xlsx file .
+- PowerPoint summary deck created for executive review.
+- Dashboard screenshots
+
 These analytic processes demonstrate both technical skills (data cleaning, DAX, visualization) and business acumen (recommendations, strategy alignment).
 
 ---
