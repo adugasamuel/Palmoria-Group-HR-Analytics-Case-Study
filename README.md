@@ -8,6 +8,13 @@ This project uses HR data from Palmoria Group, a manufacturing company, to diagn
 ⚠️**Note:** The dataset used in this public portfolio is a case study dataset created for the capstone exercise and has been handled with appropriate anonymization. The analysis and dashboard replicate a real-world HR analytics engagement.  
 
 ---
+## The repository
+This repository consist of;
+
+- Polmoria xlsx file .
+- PowerPoint summary deck created for executive review.
+- Dashboard screenshots
+---
 
 ## Project description
 A reputational article raised concerns about gender inequality at Palmoria. The CHRO engaged an HR analyst to:
@@ -188,16 +195,6 @@ This readme and the public dashboard use anonymized/case-study data. For product
 📧[Email](adugasamuel@gmail.com)
 
 🔗[LinkedIn](linkedin.com/in/aduga-emmanuel-170396132])
-
----
-
-## The repository
-
-- Polmoria xlsx file .
-- PowerPoint summary deck created for executive review.
-- Dashboard screenshots
-
-These analytic processes demonstrate both technical skills (data cleaning, DAX, visualization) and business acumen (recommendations, strategy alignment).
 
 ---
 
