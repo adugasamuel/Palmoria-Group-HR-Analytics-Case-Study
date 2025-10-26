@@ -190,8 +190,6 @@ This readme and the public dashboard use anonymized/case-study data. For product
 ---
 ## Contact
 
-**Aduga Emmanuel**  
-
 * **Aduga Emmanuel**
 * [**adugasamuel@gmail.com**](adugasamuel@gmail.com)
 * [**GitHub**](https://github.com/adugasamuel)
