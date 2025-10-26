@@ -192,13 +192,11 @@ This readme and the public dashboard use anonymized/case-study data. For product
 
 **Aduga Emmanuel**  
 
-📧[Email](adugasamuel@gmail.com)
-
-🔗[LinkedIn](linkedin.com/in/aduga-emmanuel-170396132])
-
-  [Portfolio](https://adugasamuel.github.io/)
-
-   [Github](https://github.com/adugasamuel)
+* **Aduga Emmanuel**
+* [**adugasamuel@gmail.com**](adugasamuel@gmail.com)
+* [**GitHub**](https://github.com/adugasamuel)
+* [**LinkedIn**](https://www.linkedin.com/in/aduga-emmanuel-170396132/)
+* [portfolio](https://adugasamuel.github.io/)
 ---
 
 ## Final note
