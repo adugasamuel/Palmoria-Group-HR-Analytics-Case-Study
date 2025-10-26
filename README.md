@@ -198,6 +198,7 @@ This readme and the public dashboard use anonymized/case-study data. For product
 
 [Portfolio](https://adugasamuel.github.io/)
 
+[Github](https://github.com/adugasamuel)
 ---
 
 ## Final note
