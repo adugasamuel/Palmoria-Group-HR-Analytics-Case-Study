@@ -103,19 +103,15 @@ Palmoria faces reputational and regulatory risk due to potential gender inequali
   - `TotalSalary = SUM(Employee[Salary])`  
   - `AvgFemaleSalary = CALCULATE(AVERAGE(Employee[Salary]), Employee[Gender] = "Female")`
   - `AvgFemaleSalary = CALCULATE(AVERAGE(Employee[Salary]), Employee[Gender] = "Male")` 
-  - `Salary<90K = CALCULATE(COUNT('Employee data'[Gender]), 'Employee data'[Salary]>90000)/946`  
+  - `Salary>90K = CALCULATE(COUNT('Employee data'[Gender]), 'Employee data'[Salary]>90000)/946`  
   - `TotalBonus = IF('Employee data'[Bonus]=BLANK(),0,'Employee data'[Bonus])` *(Aggregation 'sum')*  
   - `TotalPay = [Salary] + [Bonus]`  
 
 - Built salary bands (10k intervals) in Power Query to enable the *Employee grouped by band (10k)* visual.  
 - Merged Employee and Bonus Rules tables with a left join so all active employees receive bonus rules; used composite RatingKey where needed for multi-column mapping.  
 - Designed KPIs and cards for quick view (Total Employees, % > $90k, Avg Female Salary, Sum of Bonuses, Company Total Pay).  
-- Visualized regional totals for total pay (salary + bonus) to identify financial exposure by region.  
-
----
-Dax for Salary>90K
-`Salary>90K = CALCULATE(COUNT('Employee'[Gender]),'Palmoria Group emp-data'[Salary]>90000)/946`
-
+- Visualized regional totals for total pay (salary + bonus) to identify financial exposure by region.
+  
 ---
 ## Key findings & insights
 - **Workforce size:** 946 active employees (after removing inactive / salary = 0 records).  
